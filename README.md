@@ -1,1 +1,2 @@
-# architecture
+# Architecture
+Check Wiki for details
